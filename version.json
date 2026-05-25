@@ -1,6 +1,6 @@
 {
-  "version": "26.1.2",
-  "url": "https://github.com/HGStartup/csv-query/releases/tag/v26.1.2",
-  "notes": "Fix nhiều lỗi. Cho phép user chỉ định kiểu dữ liệu khi import CSV.",
+  "version": "26.1.3",
+  "url": "https://github.com/HGStartup/csv-query/releases/tag/v26.1.3",
+  "notes": "Phiên bản 26.1.3.",
   "publishedAt": "2026-05-25"
 }
